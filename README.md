@@ -17,7 +17,7 @@ A magical quiz application based on the **Harry Potter universe**, built using *
 
 ## 📸 Preview
 
-![Harry Potter Quiz Screenshot](screenshot.png) 
+![Harry Potter Quiz Screenshot]
 
 ---
 
